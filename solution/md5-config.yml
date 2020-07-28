@@ -1,0 +1,10 @@
+integration_name: com.newrelic.md5
+
+instances:
+  - name: FileCheck1
+    command: md5
+    arguments:
+      FILE_TO_CHECK: "/etc/sudoers"
+    labels:
+      filename: sudoers
+      env: dev
