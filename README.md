@@ -6,7 +6,7 @@ Infrastructure extension to validate if a file changed or not through MD5sum uti
 ## Requirements
 * Infrastructure agent installed
 * MD5sum utility installed
-* Privileges to access file being validated 
+* Privileges to access file being validated
 
 ## Installation
 
