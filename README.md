@@ -6,7 +6,7 @@
 
 ## Installation
 
-> [Include a step-by-step procedure on how to get your code installed. Be sure to include any third-party dependencies that need to be installed separately]
+> [Include a step-by-step procedure on how to get your code installed. Be sure to include any third-party dependencies that need to be installed 
 
 ## Getting Started
 >[Simple steps to start working with the software similar to a "Hello World"]
