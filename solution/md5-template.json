@@ -1,0 +1,12 @@
+{
+	"name":"com.newrelic.md5",
+	"protocol_version":"1",
+	"integration_version":"1.0",
+	"metrics": [
+		{
+			"event_type":"MD5Sample",
+			"fileChanged":"FILE_CHANGED",
+			"md5checkSum": "CURRENT_MD5"
+		}
+	]
+}

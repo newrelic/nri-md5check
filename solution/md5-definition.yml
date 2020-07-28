@@ -1,0 +1,11 @@
+name: com.newrelic.md5
+protocol_version: 1
+description: Validates md5checksum of files.
+os: linux
+
+commands:
+  md5:
+    command:
+      - ./md5.sh
+    interval: 90
+    prefix: custom/md5
